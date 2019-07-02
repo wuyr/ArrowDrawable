@@ -58,8 +58,8 @@ implementation 'com.wuyr:arrowheader:1.0.2'
 
 ### Demo下载: [app-debug.apk](https://github.com/wuyr/ArrowDrawable/raw/master/app-debug.apk)
 ### 库源码地址： 
-#### ● ArrowDrawable: <https://github.com/Ifxcyr/ArrowDrawable>
-#### ● ArrowHeader: <https://github.com/Ifxcyr/ArrowHeader>
+### ● ArrowDrawable: <https://github.com/Ifxcyr/ArrowDrawable>
+### ● ArrowHeader: <https://github.com/Ifxcyr/ArrowHeader>
 
 ### 效果图：
 ![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview1.gif) ![preview](https://github.com/wuyr/ArrowDrawable/raw/master/previews/preview2.gif)
