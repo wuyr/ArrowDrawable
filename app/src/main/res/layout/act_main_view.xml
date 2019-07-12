@@ -14,6 +14,7 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <com.wuyr.arrowheader.ArrowHeader
+            android:id="@+id/arrowHeader"
             android:layout_width="match_parent"
             android:layout_height="150dp" />
 
